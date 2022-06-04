@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **flutter**
 
-- 💬 Ask me about **flutter, android or apps**
+- 💬 Ask me about **flutter, android or mobile apps**
 
 - 📫 How to reach me **julicam156@gmail.com**
 
